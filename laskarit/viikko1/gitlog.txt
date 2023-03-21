@@ -1,0 +1,113 @@
+commit 922bd5d43b377c75a9720c9c76c0907bc6dd8193
+Author: Juho Lukka <juholukka00@gmail.com>
+Date:   Tue Mar 21 15:44:05 2023 +0200
+
+    file22
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f1ec65c4300f6f0d4c316d0b205c9badab1ac7fa
+Author: Juho Lukka <juholukka00@gmail.com>
+Date:   Tue Mar 21 15:43:02 2023 +0200
+
+    tiedostoja
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 4bed282b0430eee21b75511b385e32e1b40a8972
+Author: Juho Lukka <juholukka00@gmail.com>
+Date:   Tue Mar 21 15:40:52 2023 +0200
+
+    patch pelleilyä
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 8376104333f54834ef42f71cb5334efc43eb1349
+Author: Juho Lukka <juholukka00@gmail.com>
+Date:   Tue Mar 21 15:39:43 2023 +0200
+
+    uudelleenimetty
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0f1327c50187d7587f576ccc5c402a52e17b790a
+Author: Juho Lukka <juholukka00@gmail.com>
+Date:   Tue Mar 21 15:39:17 2023 +0200
+
+    poisto toinen
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 6a841985d47cd2b86b95a4fe50385e1339103b73
+Author: Juho Lukka <juholukka00@gmail.com>
+Date:   Tue Mar 21 15:38:14 2023 +0200
+
+    paljon tekstiä pois ja lisää whatever
+
+ tiedosto.txt | 6 ++----
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+
+commit 27107976382602cf0f19fc08777ad49b28d4f0c1
+Author: Juho Lukka <juholukka00@gmail.com>
+Date:   Tue Mar 21 15:37:11 2023 +0200
+
+    Paljon tekstiä
+
+ tiedosto.txt | 1387 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 1387 insertions(+)
+
+commit 402ccef454a6e1ce8a5b2ddbd5ea62a820278568
+Author: Juho Lukka <juholukka00@gmail.com>
+Date:   Tue Mar 21 15:36:30 2023 +0200
+
+    stuf
+
+ stuff/tied.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 58a33db2d98c545e875a3423a6125b5646ba59c0
+Author: Juho Lukka <juholukka00@gmail.com>
+Date:   Tue Mar 21 15:36:19 2023 +0200
+
+    muutoksia
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit b222df7eba83b4e8c90a995052944b5b12ff9959
+Author: Juho Lukka <juholukka00@gmail.com>
+Date:   Tue Mar 21 15:35:12 2023 +0200
+
+    kolmas.txt
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0ec443897f98be5e5ebbde70c2a46a09da930900
+Author: Juho Lukka <juholukka00@gmail.com>
+Date:   Tue Mar 21 15:34:41 2023 +0200
+
+    miuutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 4f70296cc9ab768a91b62df5e7553516a913d478
+Author: Juho Lukka <juholukka00@gmail.com>
+Date:   Tue Mar 21 15:34:11 2023 +0200
+
+    tiedosot.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
