@@ -1,12 +1,4 @@
-# Ohjelmistotekniikka
-## Tehtävät
-### Viikko 1
-[gitlog.txt](https://github.com/Jlukka/ot2023-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+[tuntikirjanpito](https://github.com/Jlukka/ot2023-harjoitustyo/blob/master/documentation/tuntikirjanpito.md)
 
-[komentorivi.txt](https://github.com/Jlukka/ot2023-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
-
-
-
-
-
+[vaatimusmaarittely](https://github.com/Jlukka/ot2023-harjoitustyo/blob/master/documentation/vaatimusmaarittely.md)
 
