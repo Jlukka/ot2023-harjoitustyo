@@ -1,14 +1,14 @@
 # ohjelma
-roguelike pakanrakennus peli
+(roguelite?) pakanrakennus peli
 ## kuvaus
-roguelike elementtejä hyödyntävä pakanrakennuspeli jossa pelaaja siirtyy kartalla olevien paikkojen läpi kohti päävihollista samalla muokaten pakkaansa. jokaisessa taistelussa vihollinen pyrkii tappamaan pelaajan, pelaaja pelaamalla kortteja pyrkii tappamaan vihollisen. pelaaja seuraa jotain yksinkertaista logiikkaa eikä pelaa kortteja. 
+(roguelike elementtejä) hyödyntävä pakanrakennuspeli jossa pelaaja siirtyy kartalla olevien paikkojen läpi kohti päävihollista samalla muokaten pakkaansa. jokaisessa taistelussa vihollinen pyrkii tappamaan pelaajan, pelaaja pelaamalla kortteja pyrkii tappamaan vihollisen. vihollinen seuraa jotain yksinkertaista logiikkaa eikä pelaa kortteja. 
 ## perusversion toiminnallisuus
-- pelaaja on kartalla jossain pakassa
+- pelaaja on kartalla jossain paikassa
     - kartta on perusversiossa lineaarinen ja sama joka pelikerralla
-- pelaajalla on  aloituskorttipakka
-- pelaajan siirtyessä taisteluun taistelu käynnistyy
-    - pelaaja saa satunnaisesti jonkun määrän kortteja pakastaan
-    - pelaaja voi pelata kädessään olevie kortteja
+- pelaajalla on  aloituskorttipakka [x]
+- pelaajan siirtyessä taisteluun taistelu  [x]
+    - pelaaja saa satunnaisesti jonkun määrän kortteja pakastaan [x]
+    - pelaaja voi pelata kädessään olevia kortteja
         - korteilla on jokin efekti esim tekee vahinkoa viholliseen tai parantaa pelaajaa
     - vihollisen elämäpisteiden loppuessa pelaaja voittaa
     - pelaajan elämäpisteiden loppuessa pelaaja häviää
