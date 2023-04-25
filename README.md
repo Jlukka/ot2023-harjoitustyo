@@ -5,8 +5,11 @@ peli jossa pelaaja taistelee erilaisia taisteluja pelaamalla kortteja ja taistel
 
 ### käyttöohje
 pelin voi asentaa komennolla poetry install
+
 pelin voi käynnistää komennolla poetry run invoke start
+
 pelin testit voi ajaa komennolla poetry run invoke test
+
 pelin testikattavuuden saa komennolla poetry run invoke coverage, html muodossa komennolla poetry run invoke coverage-report
 
 ### release
