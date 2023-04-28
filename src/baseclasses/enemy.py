@@ -1,4 +1,5 @@
-class Enemy:
-    def __init__(self, health=20):
-        self.max_health = health
-        self.health = health
+from baseclasses.creature import Creature
+
+class Enemy(Creature):
+    def __init__(self, health=10):
+        super().__init__(health)

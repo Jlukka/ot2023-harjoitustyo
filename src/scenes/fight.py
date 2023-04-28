@@ -23,8 +23,18 @@ class Fight(Scene):
     def handle_events(self):
         pass
 
-    def __handle_card_actions(actions):
-        pass
+    def __handle_card_actions(card):
+        for action in card.actions:
+            if action.action_type == "damage":
+                if action.target == "player":
+                    target = self.player
+                elif action.target == "enemy":
+                    target = self.enemy
+                target.modify_health(-action.action_amount)
+            elif action.action_type == "block":
+                pass
+            elif action.action_type == "draw":
+                self.drawpile.draw_cards(action.action_amount)
 
     def end_turn(self):
         self.player_energy = 3

@@ -5,4 +5,5 @@
 |23.4|4|ohjelman suunnittelua ja aloitus|
 |24.4|8|taustalla olevien luokkien ja funktioiden luonti|
 |25.4|8|edellisen jatkamista, toiminnallisuuden näkyvän osan kirjoittaminen aloitettu|
-|yht| 23 ||
+|28.4|1|korttien efektien totuettamisen aloitus|
+|yht| 24 ||
