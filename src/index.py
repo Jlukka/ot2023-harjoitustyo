@@ -9,7 +9,7 @@ from scenemanager import SceneManager
 
 from cardcontainers.playerdeck import PlayerDeck
 
-from cards.cards import Slash, Defend, Test
+from cards.cards import Slash, Defend, DrawDiscard
 
 from enemies.enemy1 import FirstEnemy
 
@@ -30,7 +30,7 @@ def main():
     for i in range(0, 6):
         player_deck.add_card(Slash())
         player_deck.add_card(Defend())
-    player_deck.add_card(Test())
+    player_deck.add_card(DrawDiscard())
 
     print(player_deck.cards)
 

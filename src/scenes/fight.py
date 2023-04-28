@@ -23,7 +23,7 @@ class Fight(Scene):
     def handle_events(self):
         pass
 
-    def __handle_actions(actions, target):
+    def __handle_card_actions(actions):
         pass
 
     def end_turn(self):
@@ -76,7 +76,7 @@ class Fight(Scene):
         font = pygame.font.SysFont(None, 14)
         for j in range(0, len(card.actions)):
             action = card.actions[j]
-            action = font.render(f"{action[0]} {action[1]}", True, (0, 0, 0))
+            action = font.render(f"{action.action_type} {action.action_amount}", True, (0, 0, 0))
             action_rect = action.get_rect()
             action_rect.center = (235+index*90, 590+j*15)
             display.blit(action, action_rect)

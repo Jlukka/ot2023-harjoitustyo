@@ -1,5 +1,5 @@
 class Card:
-    def __init__(self, title, cost, actions=[]):
+    def __init__(self, title, cost, actions=None):
         self.title = title
         self.cost = cost
-        self.actions = actions
+        self.actions = actions or []
